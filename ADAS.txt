@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 Keep the changes from the third commit in your working directory, so you can re-commit them if needed.
+=======
+>>>>>>> parent of d1f5e15 (ADAS file updated)
